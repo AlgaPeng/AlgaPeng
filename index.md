@@ -1,13 +1,13 @@
 ## Welcome to Alga's Page
 
-I'm an ECE undergraduate student at Cornell University starting from 2018.
+I am a Master's student at Cornell Univerisity studying Electrical and Computer Engineering. I recently with my bachelor's degree at Cornell Univerisity in ECE and a minor in CS. My study of focus is on ASIC design and verification, and embedded systems' design. I am looking for full-time opportunities starting June 2023.
 
 ### RESEARCH EXPERIENCE
 #### Cornell Computer Systems Laboratory, in [HeteroCL](https://heterocl.csl.cornell.edu/) group with [Prof. Zhiru Zhang](https://www.engineering.cornell.edu/faculty-directory/zhiru-zhang)
-- Created a general user tutorial for HCL new developers; Tested and optimized Sobel edge and Canny edge using 
-HCL; Supported customization primitives on HCL such as vector data type and vectorization for VHLS.
-- Developed test cases for reuse buffer and vectorization on multi-dimensional arrays, practiced verifying the 
-generated VHLS code using the Vivado HLS
+- Implemented, tested, and optimized image processing algorithms (Sobel edge, Canny edge) using high-level synthesis
+-	Built support for vector data type and vectorization primitives on a new high-level synthesis tool (HeteroCL)
+-	Developed test cases and verified reuse buffer and multi-dimensional vectorization features
+-	Created a general user tutorial for HeteroCL new developers
 
 #### Paper Publication, Parallel Programming Research Seminar with [Prof. Rakesh Kumar](https://ece.illinois.edu/about/directory/faculty/rakeshk)
 - Projects working on different programming models including OpenMP, MPI, and CUDA.
